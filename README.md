@@ -5,3 +5,6 @@ This project aims to analysis [Wuzzuf](https://wuzzuf.net) jobs dataset from [Ka
 ### Data processing & transformation
 
 We are going to use [SMILE](http://haifengl.github.io/api/java/smile/data/DataFrame.html) Dataframe to analyze the dataset 
+
+#### Dashboard
+Using RestAPI
