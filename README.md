@@ -4,7 +4,8 @@ This project aims to analysis [Wuzzuf](https://wuzzuf.net) jobs dataset from [Ka
 
 ### Data processing & transformation
 
-We are going to use [SMILE](http://haifengl.github.io/api/java/smile/data/DataFrame.html) Dataframe to analyze the dataset 
+* [SMILE](http://haifengl.github.io/api/java/smile/data/DataFrame.html) Dataframe to analyze the dataset with K-mean clustering algorithm
+* [TableSaw](https://jtablesaw.github.io/tablesaw/) library to load and manipulate data
 
 #### Dashboard
-Using RestAPI
+[RestAPI](https://www.restapitutorial.com)
